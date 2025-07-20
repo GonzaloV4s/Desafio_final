@@ -33,12 +33,28 @@ body {
     align-items: center;
 }
 
+.cv_text h1 {
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+.cv_text h2 {
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.cv_text p {
+    font-weight: 100;
+}
+
 .descripcion {
     width: 28rem;
 }
 
 .titulo_seccion {
     border-bottom: 1px solid rgb(255, 255, 255);
+    margin-bottom: 50px;
 }
 
 .educacion {
@@ -55,5 +71,20 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 50px;
+    padding: 75px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 75px;
+    color: white;
+}
+
+footer ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
 }
