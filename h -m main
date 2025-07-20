@@ -1,0 +1,56 @@
+[33mcommit 325ee1f94599d2301037262d3a3d28f9f8891ee9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cafaa6d 06bee47
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sun Jul 20 13:44:05 2025 -0400
+
+    Merge branch 'main' of https://github.com/pablitodev1/Desafio_final
+
+[33mcommit cafaa6d844f559a6e3251ba3cb4b00376ac7712a[m
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sun Jul 20 13:44:01 2025 -0400
+
+    añadido desafio 5 y cambios menores
+
+[33mcommit 06bee47b82f975cf3e5797cbb65d905f4c71c76d[m
+Author: pablitodev1 <169075940+pablitodev1@users.noreply.github.com>
+Date:   Sun Jul 20 13:42:17 2025 -0400
+
+    Create README.md
+    
+    Añadidos los proyectos forkeados
+
+[33mcommit 677c3c2cddc5ceb2f3abb356b8a832aae35b2b2a[m
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sun Jul 20 13:02:12 2025 -0400
+
+    fix
+
+[33mcommit a4a91521bf6f7cf2feb98ada1c3ccb928afd910a[m
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sun Jul 20 13:00:11 2025 -0400
+
+    correccion imagen
+
+[33mcommit ad60f3b309857c5734a097b20b880c714ba08bca[m
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sun Jul 20 12:55:12 2025 -0400
+
+    pagina portafolio y detalles
+
+[33mcommit 0f0bfcb7d42e2c5387e4a6f9c1e28a94ebd65926[m
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sun Jul 20 12:22:40 2025 -0400
+
+    Estilos y contenido
+
+[33mcommit 00c82b3489d6297cee458ce5844f149bc6570a93[m
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sun Jul 20 12:09:33 2025 -0400
+
+    secciones y estructura
+
+[33mcommit fba4415ee6902c769aa50d40c813396aa012817f[m
+Author: pablitodev1 <pablo.navarro.campos@gmail.com>
+Date:   Sat Jul 19 19:42:47 2025 -0400
+
+    cv_desafio_final
