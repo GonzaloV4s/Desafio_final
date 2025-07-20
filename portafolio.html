@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://api.fontshare.com/v2/css?f[]=satoshi@300,301,400,401,500,501,700,701,900,901&display=swap"
+        rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/styles/style.css">
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <title>Pablo Navarro Portafolio</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-black fixed-top">
+            <div class="container-fluid">
+                <a class="navbar-brand text-light ps-5" href="index.html">Pablo Navarro</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto pe-5">
+                        <li class="nav-item">
+                            <a class="nav-link active text-light" href="index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-light" aria-current="page" href="portafolio.html">Portafolio</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+  <div class="row row-cols-1 row-cols-md-3 g-4 portafolio">
+  <div class="col">
+    <div class="card h-100" data-aos="fade-down" data-aos-duration="700">
+      <img src="assets/images/desafio_1.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Desafío 1: CV</h5>
+        <p class="card-text">Primer desafío del curso, un simple CV utilizando solo HTML</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100" data-aos="fade-down" data-aos-duration="700" data-aos-delay="200">
+      <img src="assets/images/desafio_2.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Desafío 2: Landing Page</h5>
+        <p class="card-text">Segundo desafío del curso, realizando un landing page básico con HTML y CSS.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100" data-aos="fade-down" data-aos-duration="700" data-aos-delay="400">
+      <img src="assets/images/desafio_3.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Desafío 3: Iguana Page</h5>
+        <p class="card-text">Tercer desafío del curso, realizamos una página utilizando flex para la distribución de contenido.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100" data-aos="fade-down" data-aos-duration="700" data-aos-delay="700">
+      <img src="assets/images/desafio_4.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Desafío 4: BS CUPPON</h5>
+        <p class="card-text">Cuarto desafío, utilizando Bootstrap, realizamos una landing con distintas cards responsivas.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+        <h4>CONTACTO</h4>
+        <ul class="info_contacto">
+            <li><span class="material-symbols-outlined fs-5 text">
+                    phone_enabled
+                </span> +569 37003242</li>
+            <li><span class="material-symbols-outlined fs-5 text">
+                    mail
+                </span> pablo.navarro.campos@gmail.com</li>
+        </ul>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+        crossorigin="anonymous"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+
+</html>

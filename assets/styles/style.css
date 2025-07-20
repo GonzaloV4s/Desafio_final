@@ -74,6 +74,13 @@ body {
     padding: 75px;
 }
 
+.portafolio {
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 75px;
+}
+
 footer {
     display: flex;
     flex-direction: column;
