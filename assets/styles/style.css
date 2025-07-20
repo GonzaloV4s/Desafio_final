@@ -4,6 +4,16 @@
     font-family: 'Satoshi', sans-serif;
 }
 
+body {
+    background-color: rgb(54, 54, 54);
+}
+
+.material-symbols-outlined {
+    color: white;
+    font-size: 5rem;
+    padding-bottom: 10px;
+}
+
 .cv_main {
     display: flex;
     flex-direction: column;
@@ -24,5 +34,26 @@
 }
 
 .descripcion {
-    width: 25rem;
+    width: 28rem;
+}
+
+.titulo_seccion {
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.educacion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+}
+
+.experiencia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
 }
